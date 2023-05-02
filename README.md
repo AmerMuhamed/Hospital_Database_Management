@@ -4,4 +4,6 @@ A small system that can insert & delete & update and search in the database gene
 
 Don't forget to add jar files to project
 
-and move the JDBC files before runing project
+and move the JDBC file before runing project
+
+Don't forget to run Query on SQL Server before Runing
